@@ -730,3 +730,63 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.25-13.21.19:431][417]LogFileHelpers: Saving map 'Test' took 0.026
 [2022.04.25-13.21.19:451][417]AssetCheck: New page: Asset Save: Test
 [2022.04.25-13.21.19:451][417]LogContentValidation: Display: Validating World /Game/Levels/Test.Test
+[2022.04.25-13.22.00:863][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.04.25-13.22.00:865][800]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Test.Test
+[2022.04.25-13.22.00:866][800]Cmd: MAP LOAD FILE="../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.25-13.22.00:866][800]LightingResults: New page: Lighting Build
+[2022.04.25-13.22.00:866][800]LoadErrors: New page: Loading map: Test.umap
+[2022.04.25-13.22.00:871][800]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.25-13.22.00:872][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.25-13.22.00:877][800]MapCheck: New page: Map Check
+[2022.04.25-13.22.00:877][800]LightingResults: New page: Lighting Build
+[2022.04.25-13.22.00:881][800]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.25-13.22.00:888][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.25-13.22.00:902][800]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2022.04.25-13.22.00:902][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.25-13.22.00:909][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.25-13.22.00:914][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.25-13.22.00:915][800]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2022.04.25-13.22.00:915][800]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.25-13.22.00:915][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.25-13.22.00:916][800]LogAIModule: Creating AISystem for world Test
+[2022.04.25-13.22.00:917][800]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.25-13.22.00:923][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.25-13.22.00:931][800]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.25-13.22.00:931][800]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2022.04.25-13.22.00:931][800]LogFileHelpers: Loading map 'Test' took 0.065
+[2022.04.25-13.22.20:883][779]LogSlate: Window 'New Level' being destroyed
+[2022.04.25-13.22.20:899][779]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.25-13.22.20:900][779]LightingResults: New page: Lighting Build
+[2022.04.25-13.22.20:900][779]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.04.25-13.22.20:901][779]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2022.04.25-13.22.20:901][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.25-13.22.20:901][779]MapCheck: New page: Map Check
+[2022.04.25-13.22.20:901][779]LightingResults: New page: Lighting Build
+[2022.04.25-13.22.20:906][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.25-13.22.20:907][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.25-13.22.20:951][779]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.04.25-13.22.20:951][779]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.25-13.22.20:951][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.25-13.22.20:951][779]LogAIModule: Creating AISystem for world Untitled_1
+[2022.04.25-13.22.20:953][779]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.25-13.22.20:960][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.25-13.22.20:960][779]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.25-13.22.20:961][779]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2022.04.25-13.22.20:961][779]LogFileHelpers: Loading map 'Template_Default' took 0.062
+[2022.04.25-13.22.25:888][992]LogDerivedDataCache: C:/Users/simon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.812 and deleted 8 file(s) with total size 0 MiB.
+[2022.04.25-13.22.28:023][992]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.25-13.22.28:109][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.25-13.22.28:113][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.25-13.22.28:120][992]LogSavePackage: Moving output files for package: /Game/Levels/NewMap
+[2022.04.25-13.22.28:120][992]LogSavePackage: Moving '../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Saved/NewMap2764CCC24E87353C8801F6981CBC0FCB.tmp' to '../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Content/Levels/NewMap.umap'
+[2022.04.25-13.22.28:131][992]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Levels/NewMap_BuiltData
+[2022.04.25-13.22.28:131][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2022.04.25-13.22.28:135][992]LogSavePackage: Moving output files for package: /Game/Levels/NewMap_BuiltData
+[2022.04.25-13.22.28:135][992]LogSavePackage: Moving '../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Saved/NewMap_BuiltData7B81C85C4B97A12CB95A04A5C9E02295.tmp' to '../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Content/Levels/NewMap_BuiltData.uasset'
+[2022.04.25-13.22.28:136][992]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Levels/NewMap_BuiltData
+[2022.04.25-13.22.28:173][992]LogFileHelpers: Saving map 'NewMap' took 0.132
+[2022.04.25-13.22.28:176][992]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.25-13.22.28:176][992]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2022.04.25-13.22.28:176][992]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
