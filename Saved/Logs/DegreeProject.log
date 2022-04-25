@@ -790,3 +790,19 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.25-13.22.28:176][992]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.25-13.22.28:176][992]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
 [2022.04.25-13.22.28:176][992]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2022.04.25-13.22.45:563][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.04.25-13.22.45:563][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.04.25-13.22.45:564][662]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/NewMap.NewMap:PersistentLevel.StaticMeshActor_0
+[2022.04.25-13.22.45:574][662]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/NewMap.NewMap:PersistentLevel.StaticMeshActor_0
+[2022.04.25-13.22.46:265][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.04.25-13.22.46:265][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.04.25-13.22.46:267][695]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/NewMap.NewMap:PersistentLevel.StaticMeshActor_2
+[2022.04.25-13.22.46:267][695]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/NewMap.NewMap:PersistentLevel.StaticMeshActor_2
+[2022.04.25-13.23.03:249][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.25-13.23.03:254][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.25-13.23.03:261][268]LogSavePackage: Moving output files for package: /Game/Levels/NewMap
+[2022.04.25-13.23.03:261][268]LogSavePackage: Moving '../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Saved/NewMap8DB2DAEB46DDDFCE5C81B180D8347CEA.tmp' to '../../../../../../Users/simon/Documents/GitHub/TEMP/Degree-Project/Content/Levels/NewMap.umap'
+[2022.04.25-13.23.03:270][268]LogFileHelpers: No new changes to save!
+[2022.04.25-13.23.03:288][268]AssetCheck: New page: Asset Save: NewMap
+[2022.04.25-13.23.03:288][268]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2022.04.25-13.24.17:937][527]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/simon/Documents/GitHub/TEMP/Degree-Project/Saved/Collections/' because it could not be accessed. Aborting watch request...
